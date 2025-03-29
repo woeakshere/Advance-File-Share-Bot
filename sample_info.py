@@ -18,7 +18,7 @@ AUTH_CHANNEL = None
 
 # MongoDB information
 DATABASE_URI = "mongodb+srv://Wleakshere:Thunderstrikes27@wleakshere.api7w.mongodb.net/?retryWrites=true&w=majority&appName=Wleakshere"
-DATABASE_NAME = 'wleaks'
+DATABASE_NAME = 'advancew'
 COLLECTION_NAME = 'channel_files'  # If you are using the same database, then use different collection name for each bot
 
 
