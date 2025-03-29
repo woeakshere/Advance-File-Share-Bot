@@ -1,9 +1,9 @@
 # Bot information
 SESSION = 'Media_search'
-USER_SESSION = 'User_Bot'
-API_ID = 12345
-API_HASH = '0123456789abcdef0123456789abcdef'
-BOT_TOKEN = '123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11'
+USER_SESSION = 'filesuckbot'
+API_ID = 24103884
+API_HASH = '257516f22417652d03896cb2e007d6df'
+BOT_TOKEN = '7709318237:AAE9gL7l7V9Q0ZUSUGO0XfmoS5JDMi6Km-c'
 USERBOT_STRING_SESSION = ''
 
 # Bot settings
@@ -11,14 +11,14 @@ CACHE_TIME = 300
 USE_CAPTION_FILTER = False
 
 # Admins, Channels & Users
-ADMINS = [12345789, 'admin123', 98765432]
-CHANNELS = [-10012345678, -100987654321, 'channelusername']
+ADMINS = [1672634667]
+CHANNELS = []
 AUTH_USERS = []
 AUTH_CHANNEL = None
 
 # MongoDB information
-DATABASE_URI = "mongodb://[username:password@]host1[:port1][,...hostN[:portN]][/[defaultauthdb]?retryWrites=true&w=majority"
-DATABASE_NAME = 'Telegram'
+DATABASE_URI = "mongodb+srv://Wleakshere:Thunderstrikes27@wleakshere.api7w.mongodb.net/?retryWrites=true&w=majority&appName=Wleakshere"
+DATABASE_NAME = 'wleaks'
 COLLECTION_NAME = 'channel_files'  # If you are using the same database, then use different collection name for each bot
 
 
